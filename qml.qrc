@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="main.qml">qml/main.qml</file>
+        <file>qml/MenuBarCustom/MenuBarImpl.qml</file>
+        <file>qml/MenuBarCustom/qmldir</file>
+        <file>qml/PageSettings/qmldir</file>
+        <file>qml/PageSettings/PageSettingsImpl.qml</file>
+        <file>qml/PageMain/PageMainImpl.qml</file>
+        <file>qml/PageMain/qmldir</file>
+        <file>qml/PageMain/ModuleRowRound/ModuleRowRoundImpl.qml</file>
+        <file>qml/PageMain/ModuleRowRound/qmldir</file>
+        <file>qml/PageMain/ButtonRound/ButtonRoundImpl.qml</file>
+        <file>qml/PageMain/ButtonRound/qmldir</file>
+        <file>qml/ModuleStyle/Style.qml</file>
+        <file>qml/ModuleStyle/qmldir</file>
+        <file>qml/PageGames/PageGamesImpl.qml</file>
+        <file>qml/PageGames/qmldir</file>
+        <file>qml/PageShop/PageShopImpl.qml</file>
+        <file>qml/PageShop/qmldir</file>
+        <file>qml/PageGames/Games/Game2048/Game2048Impl.qml</file>
+        <file>qml/PageGames/Games/Game2048/qmldir</file>
+        <file>qml/PageGames/Games/qmldir</file>
+        <file>qml/PageGames/Games/Game2048/ScoreDisplay/ScoreDisplayImpl.qml</file>
+        <file>qml/PageGames/Games/Game2048/ScoreDisplay/qmldir</file>
+        <file>qml/ModuleDialog/DialogImpl.qml</file>
+        <file>qml/ModuleDialog/qmldir</file>
+        <file>qml/PageGames/Games/QuickMath/GameQuickMathImpl.qml</file>
+        <file>qml/PageGames/Games/QuickMath/qmldir</file>
+    </qresource>
+</RCC>

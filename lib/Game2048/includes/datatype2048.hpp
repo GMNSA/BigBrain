@@ -1,0 +1,24 @@
+#ifndef DATATYPE_2048
+#define DATATYPE_2048
+
+enum class eGameType2048
+{
+  TYPE_2 = 2,
+  TYPE_4 = 4,
+  TYPE_8 = 8,
+  TYPE_16 = 16,
+  TYPE_32 = 32,
+  TYPE_64 = 64,
+  TYPE_128 = 128,
+  TYPE_256 = 256,
+  TYPE_512 = 512,
+  TYPE_1024 = 1024,
+  TYPE_2048 = 2048,
+  TYPE_4096 = 4096,
+  TYPE_16384 = 16384,
+  TYPE_32768 = 32768,
+  TYPE_65536 = 65536,
+  TYPE_131072 = 131072
+};
+
+#endif // DATATYPE_2048

@@ -1,0 +1,2 @@
+module ScoreDisplay
+ScoreDisplayImpl 1.0 ScoreDisplayImpl.qml

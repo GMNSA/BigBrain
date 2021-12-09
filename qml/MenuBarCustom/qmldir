@@ -1,0 +1,3 @@
+module MenuBarCustom
+MenuBarImpl 1.0 MenuBarImpl.qml
+

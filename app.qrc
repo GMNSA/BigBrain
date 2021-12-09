@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qtquickcontrols2.conf</file>
+        <file>resources/triangleBtn.png</file>
+        <file>resources/buyWhite.png</file>
+        <file>resources/heart.png</file>
+        <file>resources/noAds.png</file>
+        <file>resources/buy2.png</file>
+        <file>resources/settings.png</file>
+        <file>resources/spritesHeart.png</file>
+        <file>resources/games_icons/tower.svg</file>
+        <file>resources/games_icons/hourglass.png</file>
+        <file alias="gamesImages.js">js_files/image_for_page_games.js</file>
+        <file>resources/games_icons/brain.png</file>
+        <file>resources/games_icons/insert_table.png</file>
+        <file>resources/games_icons/balance.png</file>
+        <file>resources/games_icons/hard_math.png</file>
+        <file>resources/games_icons/true_false.png</file>
+        <file>resources/games_icons/split_area.png</file>
+        <file>resources/games_icons/training.png</file>
+        <file>resources/games_icons/multiplication_table.png</file>
+        <file alias="colorTile.js">js_files/color_tile.js</file>
+    </qresource>
+</RCC>

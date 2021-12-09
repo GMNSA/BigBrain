@@ -1,0 +1,2 @@
+module ModuleDialog
+DialogImpl 1.0 DialogImpl.qml
